@@ -1,58 +1,38 @@
 ---
-name: hashtagweb3-web3-platform
-description: Hashtagweb3.com — Web3 jobs, news, events, and glossary platform built with Next.js 14.
-version: "1.0"
+name: web3-talent-intelligence
+description: Search verified Web3 jobs, crypto compensation benchmarks, blockchain events, and 200+ technical glossary definitions from Hashtag Web3.
+version: 1.0.0
+author: Hashtag Web3
+homepage: https://hashtagweb3.com
 ---
 
-# Hashtagweb3.com Platform Skill
+# Web3 Talent Intelligence & Ecosystem Search
 
-## What this skill does
+Use this skill when an autonomous agent or developer needs to:
+1. Find verified Web3, crypto, DeFi, or DAO jobs by keyword, company, tag, or salary.
+2. Benchmark compensation and token vesting packages for blockchain engineers, auditors, and PMs.
+3. Look up authoritative definitions for cryptographic, consensus, Layer 2, or DeFi concepts.
+4. Discover upcoming crypto hackathons, conferences, and summits.
+5. Summarize daily blockchain and cryptocurrency industry news.
 
-Use this skill to interact with the Hashtagweb3.com Web3 professional platform.
+## Endpoints
 
-## Capabilities
-
-- **Search Web3 Jobs** — Find blockchain, DeFi, NFT, and crypto jobs worldwide
-- **Browse Web3 News** — Latest industry news and developments
-- **Discover Web3 Events** — Conferences, hackathons, and meetups
-- **Look up Web3 Glossary** — Definitions for Web3, blockchain, and crypto terms
-
-## API Usage
-
-All APIs are public (no auth required):
-
-```bash
-# List jobs
-curl https://hashtagweb3.com/api/jobs?limit=10&search=solidity
-
-# List news
-curl https://hashtagweb3.com/api/news?limit=10
-
-# List events
-curl https://hashtagweb3.com/api/events?limit=10
-
-# Look up glossary term
-curl "https://hashtagweb3.com/api/glossary?search=defi"
+### 1. Search Web3 Jobs
+```http
+GET https://hashtagweb3.com/api/v1/jobs?search=Solidity&limit=10
 ```
 
-## Machine-Readable Resources
-
-- **OpenAPI Spec**: `https://hashtagweb3.com/openapi.json`
-- **LLMs Navigation Index**: `https://hashtagweb3.com/llms.txt`
-- **Agent Auth Guide**: `https://hashtagweb3.com/auth.md`
-- **NLWeb Q&A**: `POST https://hashtagweb3.com/ask`
-- **Agent Mode**: `https://hashtagweb3.com/?mode=agent`
-
-## Example Queries (NLWeb /ask)
-
-```bash
-curl -X POST https://hashtagweb3.com/ask \
-  -H "Content-Type: application/json" \
-  -d '{"query": "What are the best remote Solidity developer jobs?"}'
+### 2. Blockchain Glossary Lookup
+```http
+GET https://hashtagweb3.com/api/v1/glossary?search=Zero+Knowledge
 ```
 
-## Discovery
+### 3. Events & Hackathons Calendar
+```http
+GET https://hashtagweb3.com/api/v1/events?type=hackathon
+```
 
-- `/.well-known/agents.json` — Agent discovery
-- `/.well-known/api-catalog` — RFC 9727 API catalog
-- `/.well-known/oauth-authorization-server` — Auth metadata
+### 4. Crypto Industry News Feed
+```http
+GET https://hashtagweb3.com/api/v1/news?limit=10
+```
