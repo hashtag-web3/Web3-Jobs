@@ -1,9 +1,26 @@
 {
-  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "$schema": "https://agent-plugins.org/specification",
   "name": "hashtagweb3",
   "version": "1.0.0",
-  "description": "Agentic Web3 job board, news feed, events, and glossary definitions plugin.",
+  "displayName": "Hashtag Web3",
+  "description": "Agent plugin for searching verified Web3 jobs, crypto news, blockchain glossary terms, and global events.",
   "author": "Hashtag Web3",
   "homepage": "https://hashtagweb3.com",
-  "repository": "https://github.com/vedangvatsa/Web3-Jobs"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vedangvatsa/Web3-Jobs"
+  },
+  "capabilities": [
+    "job-search",
+    "glossary-lookup",
+    "news-feed",
+    "events-calendar"
+  ],
+  "skills": [
+    "https://hashtagweb3.com/SKILL.md"
+  ],
+  "mcp": {
+    "server": "https://hashtagweb3.com/api/mcp",
+    "transport": "streamable-http"
+  }
 }
