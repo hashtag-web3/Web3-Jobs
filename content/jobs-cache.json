@@ -33,19 +33,19 @@
     "location": "San Mateo, CA / Hybrid",
     "department": "Digital Asset Marketing",
     "active": true,
-    "slug": "marketingft02"
+    "slug": "marketingft03"
   },
   {
-    "id": "ft-digital-product-manager-blockchain",
-    "title": "Digital Product Manager (Blockchain & Digital Assets)",
+    "id": "ft-senior-administrative-assistant-crypto",
+    "title": "Senior Administrative Assistant (Franklin Templeton Crypto)",
     "company": "Franklin Templeton",
     "link": "https://careers.franklintempleton.com/us/en/search-results?m=3&keywords=blockchain",
     "date": "2026-09-04",
     "source": "Franklin Templeton Careers [franklin-templeton]",
-    "location": "San Mateo, CA / Remote (US)",
-    "department": "Digital Assets & Tokenization",
+    "location": "New York, NY / Hybrid",
+    "department": "Crypto Operations",
     "active": true,
-    "slug": "productft01"
+    "slug": "operationsft05"
   },
   {
     "id": "7606826",
