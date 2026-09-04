@@ -1,5 +1,29 @@
 [
   {
+    "id": "ft-director-digital-audience-engagement",
+    "title": "Director, Digital Audience Engagement (Crypto & Web3)",
+    "company": "Franklin Templeton",
+    "link": "https://careers.franklintempleton.com/us/en/search-results?m=3&keywords=crypto",
+    "date": "2026-09-04",
+    "source": "Franklin Templeton Careers [franklin-templeton]",
+    "location": "San Mateo, CA / Hybrid",
+    "department": "Digital Asset Marketing",
+    "active": true,
+    "slug": "marketingft02"
+  },
+  {
+    "id": "ft-digital-product-manager-blockchain",
+    "title": "Digital Product Manager (Blockchain & Digital Assets)",
+    "company": "Franklin Templeton",
+    "link": "https://careers.franklintempleton.com/us/en/search-results?m=3&keywords=blockchain",
+    "date": "2026-09-04",
+    "source": "Franklin Templeton Careers [franklin-templeton]",
+    "location": "San Mateo, CA / Remote (US)",
+    "department": "Digital Assets & Tokenization",
+    "active": true,
+    "slug": "productft01"
+  },
+  {
     "id": "7606826",
     "title": "Country Director, India",
     "company": "Coinbase",
