@@ -1,27 +1,27 @@
 [
   {
-    "id": "pwc-digital-assurance-digital-assets-senior-associate",
-    "title": "Digital Assurance & Transparency - Digital Assets Senior Associate",
+    "id": "pwc-bcm-assurance-digital-assets-manager",
+    "title": "BCM - Assurance - Digital Assets Manager",
     "company": "PwC",
     "link": "https://jobs-us.pwc.com/us/en/search-results?keywords=crypto",
     "date": "2026-09-04",
     "source": "PwC Careers [pwc]",
     "location": "San Francisco, CA / Hybrid",
-    "department": "Digital Asset Audit & Assurance",
+    "department": "Banking & Capital Markets Assurance",
     "active": true,
-    "slug": "seniorpwc04"
+    "slug": "managerpwc05"
   },
   {
-    "id": "pwc-ai-blockchain-architect-senior-manager",
-    "title": "AI / Blockchain Architect Senior Manager",
+    "id": "pwc-awm-assurance-digital-assets-manager",
+    "title": "AWM - Assurance - Digital Assets Manager",
     "company": "PwC",
     "link": "https://jobs-us.pwc.com/us/en/search-results?keywords=blockchain",
     "date": "2026-09-04",
     "source": "PwC Careers [pwc]",
-    "location": "Tampa, FL / Hybrid",
-    "department": "Platform Architecture & Blockchain",
+    "location": "New York, NY / Hybrid",
+    "department": "Asset & Wealth Management Assurance",
     "active": true,
-    "slug": "architectpwc02"
+    "slug": "managerpwc07"
   },
   {
     "id": "ft-client-relationship-manager-crypto-institutions",
