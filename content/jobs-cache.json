@@ -1,5 +1,29 @@
 [
   {
+    "id": "pwc-digital-assurance-digital-assets-senior-associate",
+    "title": "Digital Assurance & Transparency - Digital Assets Senior Associate",
+    "company": "PwC",
+    "link": "https://jobs-us.pwc.com/us/en/search-results?keywords=crypto",
+    "date": "2026-09-04",
+    "source": "PwC Careers [pwc]",
+    "location": "San Francisco, CA / Hybrid",
+    "department": "Digital Asset Audit & Assurance",
+    "active": true,
+    "slug": "seniorpwc04"
+  },
+  {
+    "id": "pwc-ai-blockchain-architect-senior-manager",
+    "title": "AI / Blockchain Architect Senior Manager",
+    "company": "PwC",
+    "link": "https://jobs-us.pwc.com/us/en/search-results?keywords=blockchain",
+    "date": "2026-09-04",
+    "source": "PwC Careers [pwc]",
+    "location": "Tampa, FL / Hybrid",
+    "department": "Platform Architecture & Blockchain",
+    "active": true,
+    "slug": "architectpwc02"
+  },
+  {
     "id": "ft-director-digital-audience-engagement",
     "title": "Director, Digital Audience Engagement (Crypto & Web3)",
     "company": "Franklin Templeton",
