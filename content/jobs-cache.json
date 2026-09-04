@@ -35,7 +35,8 @@
     "location": "New York, NY / London, UK",
     "department": "Institutional Digital Assets Sales",
     "active": true,
-    "slug": "salesft11"
+    "slug": "salesft11",
+    "description": "<h3><strong>Role Overview</strong></h3><p>Drive institutional business development, partnership expansion, and client relationships across crypto-native funds, DAOs, protocol foundations, and wealth managers.</p><h3><strong>Responsibilities</strong></h3><ul><li>Represent Franklin Templeton's digital asset strategies and tokenized fund offerings to institutional allocators globally.</li><li>Build strategic co-marketing and integration partnerships with Web3 ecosystem platforms, custodians, and exchanges.</li></ul>"
   },
   {
     "id": "ft-senior-administrative-assistant-crypto",
@@ -47,7 +48,8 @@
     "location": "New York, NY / Hybrid",
     "department": "Crypto Operations",
     "active": true,
-    "slug": "operationsft05"
+    "slug": "operationsft05",
+    "description": "<h3><strong>Role Overview</strong></h3><p>Provide executive administrative and operational support to the leadership team of Franklin Templeton's Digital Assets & Crypto investment group.</p><h3><strong>Responsibilities</strong></h3><ul><li>Manage executive calendars, travel arrangements, and event logistics for global Web3 conferences and institutional investor summits.</li><li>Coordinate department vendor contracts, invoice processing, and cross-team communications between investment management, compliance, and product pods.</li></ul>"
   },
   {
     "id": "7606826",
