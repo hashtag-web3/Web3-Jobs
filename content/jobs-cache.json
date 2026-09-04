@@ -9,7 +9,8 @@
     "location": "New York, NY / San Francisco, CA / Hybrid",
     "department": "Digital Assets Consulting",
     "active": true,
-    "slug": "associatepwc10"
+    "slug": "associatepwc10",
+    "description": "<h3><strong>Role Overview</strong></h3><p>Join PwC's entry-level Technology Consulting program focused on Digital Assets, stablecoin payments, and enterprise blockchain integration.</p><h3><strong>Responsibilities</strong></h3><ul><li>Support consulting teams in analyzing Web3 market trends, evaluating blockchain protocols, and preparing client presentations.</li><li>Assist in testing dApp prototypes, analyzing smart contract workflows, and documenting technical requirements.</li></ul>"
   },
   {
     "id": "pwc-awm-assurance-digital-assets-manager",
@@ -21,7 +22,8 @@
     "location": "New York, NY / Hybrid",
     "department": "Asset & Wealth Management Assurance",
     "active": true,
-    "slug": "managerpwc07"
+    "slug": "managerpwc07",
+    "description": "<h3><strong>Role Overview</strong></h3><p>Manage digital asset audit engagements for asset management clients holding cryptocurrencies, tokenized securities, and venture investments.</p><h3><strong>Responsibilities</strong></h3><ul><li>Execute audit procedures verifying digital asset ownership, wallet signing authority, and fund NAV calculations.</li><li>Review custodian SOC reports, smart contract audit reports, and valuation inputs.</li></ul>"
   },
   {
     "id": "ft-client-relationship-manager-crypto-institutions",
