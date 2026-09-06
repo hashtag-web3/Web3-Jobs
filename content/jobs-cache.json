@@ -1564,46 +1564,6 @@
     "slug": "role48004"
   },
   {
-    "id": "greenhouse-grayscale-6659640002",
-    "title": "Not a real job",
-    "company": "Grayscale Investments",
-    "location": "Atlanta - Remote",
-    "type": "Full-time",
-    "date": "2026-09-05",
-    "source": "greenhouse:grayscale",
-    "link": "https://job-boards.greenhouse.io/grayscale/jobs/6659640002",
-    "applyUrl": "https://job-boards.greenhouse.io/grayscale/jobs/6659640002",
-    "department": "Customer Success",
-    "skills": [
-      "Web3",
-      "Blockchain",
-      "Crypto",
-      "DeFi",
-      "Infrastructure"
-    ],
-    "slug": "job40002"
-  },
-  {
-    "id": "greenhouse-grayscale-4437277002",
-    "title": "Head Chef",
-    "company": "Grayscale Investments",
-    "location": "ATlanta",
-    "type": "Full-time",
-    "date": "2026-09-05",
-    "source": "greenhouse:grayscale",
-    "link": "https://job-boards.greenhouse.io/grayscale/jobs/4437277002",
-    "applyUrl": "https://job-boards.greenhouse.io/grayscale/jobs/4437277002",
-    "department": "Grayscale Investments",
-    "skills": [
-      "Web3",
-      "Blockchain",
-      "Crypto",
-      "DeFi",
-      "Infrastructure"
-    ],
-    "slug": "job77002"
-  },
-  {
     "id": "ashby-phantom-01acfd54-49c2-4913-a968-fc70fcf61e12",
     "title": "Senior Software Engineer, Backend (Money Movement)",
     "company": "Phantom",
