@@ -204,18 +204,6 @@
     "slug": "role1733f"
   },
   {
-    "id": "bb981823-b923-4f53-95ba-19d732c1caf3",
-    "title": "Software Engineer- General Interest",
-    "company": "Uniswap Labs",
-    "link": "https://jobs.ashbyhq.com/uniswap/bb981823-b923-4f53-95ba-19d732c1caf3",
-    "date": "2026-08-12",
-    "source": "Ashby: Uniswap Labs [uniswap]",
-    "location": "New York",
-    "department": "Engineering",
-    "active": true,
-    "slug": "role1caf3"
-  },
-  {
     "id": "coindcx-1789",
     "title": "Security Architect",
     "company": "CoinDCX",
@@ -1594,26 +1582,6 @@
       "Infrastructure"
     ],
     "slug": "job40002"
-  },
-  {
-    "id": "greenhouse-grayscale-8750681002",
-    "title": "Nico test prosp pool",
-    "company": "Grayscale Investments",
-    "location": "Atlanta",
-    "type": "Full-time",
-    "date": "2026-09-05",
-    "source": "greenhouse:grayscale",
-    "link": "https://job-boards.greenhouse.io/grayscale/jobs/8750681002",
-    "applyUrl": "https://job-boards.greenhouse.io/grayscale/jobs/8750681002",
-    "department": "Customer Success",
-    "skills": [
-      "Web3",
-      "Blockchain",
-      "Crypto",
-      "DeFi",
-      "Infrastructure"
-    ],
-    "slug": "job81002"
   },
   {
     "id": "greenhouse-grayscale-4437277002",
@@ -27094,20 +27062,6 @@
     "slug": "security53",
     "postedAt": "2026-09-01",
     "description": "<div class=\"space-y-6\">\n <section class=\"rounded-xl border border-primary/20 bg-primary/5 p-6 backdrop-blur-sm\">\n <h2 class=\"text-xl font-bold text-foreground mb-2\">Role Overview: Lead Blockchain Security Developer (Canton)</h2>\n <p class=\"text-muted-foreground leading-relaxed\">\n OpenZeppelin is actively hiring a <strong>Lead Blockchain Security Developer (Canton)</strong> (Remote). This position offers the opportunity to contribute directly to OpenZeppelin's core products, infrastructure, and Web3 mission.\n </p>\n </section>\n <section class=\"space-y-3\">\n <h3 class=\"text-lg font-semibold text-foreground\">About OpenZeppelin</h3>\n <p class=\"text-muted-foreground leading-relaxed\">OpenZeppelin is a leading Web3 and blockchain project building decentralized products and infrastructure.</p>\n </section>\n <section class=\"space-y-3\">\n <h3 class=\"text-lg font-semibold text-foreground\">Key Focus &amp; Responsibilities</h3>\n <ul class=\"list-disc pl-5 text-muted-foreground space-y-2\">\n <li>Drive execution and core initiatives for Lead Blockchain Security Developer (Canton) operations.</li>\n <li>Collaborate with cross-functional engineering, product, and growth teams.</li>\n <li>Build and scale secure, decentralized, high-performance systems.</li>\n </ul>\n </section>\n <section class=\"space-y-3\">\n <h3 class=\"text-lg font-semibold text-foreground\">Qualifications</h3>\n <ul class=\"list-disc pl-5 text-muted-foreground space-y-2\">\n <li>Demonstrated experience relevant to Lead Blockchain Security Developer (Canton).</li>\n <li>Strong passion for Web3 technology and decentralized infrastructure.</li>\n <li>Effective problem-solving ability and team communication skills.</li>\n </ul>\n </section>\n <section class=\"rounded-lg bg-card p-4 border border-border\">\n <p class=\"text-sm text-muted-foreground\">\n Click <strong>Apply Now</strong> below to submit your official application for this position.\n </p>\n </section>\n</div>"
-  },
-  {
-    "id": "4254142003",
-    "title": "Blockchain Security Researcher - Future Openings",
-    "company": "OpenZeppelin",
-    "link": "https://openzeppelin.com/careers/opening/?gh_jid=4254142003",
-    "date": "2026-09-01",
-    "source": "Greenhouse: OpenZeppelin [openzeppelin]",
-    "location": "Remote - Worldwide",
-    "department": "Security Research",
-    "active": true,
-    "slug": "security54",
-    "postedAt": "2026-09-01",
-    "description": "<div class=\"space-y-6\">\n <section class=\"rounded-xl border border-primary/20 bg-primary/5 p-6 backdrop-blur-sm\">\n <h2 class=\"text-xl font-bold text-foreground mb-2\">Role Overview: Blockchain Security Researcher - Future Openings</h2>\n <p class=\"text-muted-foreground leading-relaxed\">\n OpenZeppelin is actively hiring a <strong>Blockchain Security Researcher - Future Openings</strong> (Remote - Worldwide). This position offers the opportunity to contribute directly to OpenZeppelin's core products, infrastructure, and Web3 mission.\n </p>\n </section>\n <section class=\"space-y-3\">\n <h3 class=\"text-lg font-semibold text-foreground\">About OpenZeppelin</h3>\n <p class=\"text-muted-foreground leading-relaxed\">OpenZeppelin is a leading Web3 and blockchain project building decentralized products and infrastructure.</p>\n </section>\n <section class=\"space-y-3\">\n <h3 class=\"text-lg font-semibold text-foreground\">Key Focus &amp; Responsibilities</h3>\n <ul class=\"list-disc pl-5 text-muted-foreground space-y-2\">\n <li>Drive execution and core initiatives for Blockchain Security Researcher - Future Openings operations.</li>\n <li>Collaborate with cross-functional engineering, product, and growth teams.</li>\n <li>Build and scale secure, decentralized, high-performance systems.</li>\n </ul>\n </section>\n <section class=\"space-y-3\">\n <h3 class=\"text-lg font-semibold text-foreground\">Qualifications</h3>\n <ul class=\"list-disc pl-5 text-muted-foreground space-y-2\">\n <li>Demonstrated experience relevant to Blockchain Security Researcher - Future Openings.</li>\n <li>Strong passion for Web3 technology and decentralized infrastructure.</li>\n <li>Effective problem-solving ability and team communication skills.</li>\n </ul>\n </section>\n <section class=\"rounded-lg bg-card p-4 border border-border\">\n <p class=\"text-sm text-muted-foreground\">\n Click <strong>Apply Now</strong> below to submit your official application for this position.\n </p>\n </section>\n</div>"
   },
   {
     "id": "bf99b611-ccbd-4b6c-aec1-4770a5c44152",
