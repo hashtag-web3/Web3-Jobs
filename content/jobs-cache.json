@@ -1,5 +1,1029 @@
 [
   {
+    "id": "yzilabs-4e71c5d7-29af-41a7-b6f2-4de4d1ade172",
+    "title": "Principal Backend Engineer",
+    "company": "Predict.fun",
+    "link": "https://talent.yzilabs.com/jobs/4e71c5d7-29af-41a7-b6f2-4de4d1ade172",
+    "date": "2026-05-24",
+    "source": "YZi Labs: Predict.fun",
+    "location": "Remote",
+    "department": "Engineering",
+    "active": true,
+    "slug": "backendde172",
+    "tags": [
+      "Rust",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "skills": [
+      "Rust",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "level": "Director",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-60b60721-6ed4-4e12-8050-3744816c9af8",
+    "title": "AI Operator",
+    "company": "Predict.fun",
+    "link": "https://talent.yzilabs.com/jobs/60b60721-6ed4-4e12-8050-3744816c9af8",
+    "date": "2026-05-24",
+    "source": "YZi Labs: Predict.fun",
+    "location": "Remote",
+    "department": "Engineering",
+    "active": true,
+    "slug": "aic9af8",
+    "tags": [
+      "LLM",
+      "AI Agents",
+      "Structured Outputs"
+    ],
+    "skills": [
+      "LLM",
+      "AI Agents",
+      "Structured Outputs"
+    ],
+    "level": "Mid",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-3eebe631-95f5-4850-a6cd-279c83daf517",
+    "title": "Growth Product Manager",
+    "company": "OptimAI Network",
+    "link": "https://talent.yzilabs.com/jobs/3eebe631-95f5-4850-a6cd-279c83daf517",
+    "date": "2026-06-02",
+    "source": "YZi Labs: OptimAI Network",
+    "location": "Remote",
+    "department": "Product",
+    "active": true,
+    "slug": "productaf517",
+    "tags": [
+      "Agentic AI",
+      "Product",
+      "Growth"
+    ],
+    "skills": [
+      "Agentic AI",
+      "Product",
+      "Growth"
+    ],
+    "level": "Senior",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-8996d0f2-784d-4a7b-b45b-733787e4b10f",
+    "title": "Engineering",
+    "company": "ICME",
+    "link": "https://talent.yzilabs.com/jobs/8996d0f2-784d-4a7b-b45b-733787e4b10f",
+    "date": "2026-06-01",
+    "source": "YZi Labs: ICME",
+    "location": "Remote / San Francisco / New York",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineer4b10f",
+    "tags": [
+      "Engineer",
+      "Market Infrastructure",
+      "Rust",
+      "Smart Contracts",
+      "Distributed Systems",
+      "Tokenized Equity",
+      "Settlement",
+      "Compliance",
+      "High-Ownership",
+      "Security-Minded"
+    ],
+    "skills": [
+      "Engineer",
+      "Market Infrastructure",
+      "Rust",
+      "Smart Contracts",
+      "Distributed Systems",
+      "Tokenized Equity",
+      "Settlement",
+      "Compliance",
+      "High-Ownership",
+      "Security-Minded"
+    ],
+    "level": "Mid",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-e708fb94-e9ea-4020-be20-ad58dd94cef3",
+    "title": "Finance Manager/Senior Finance Manager - Investment Reporting",
+    "company": "YZi Labs",
+    "link": "https://talent.yzilabs.com/jobs/e708fb94-e9ea-4020-be20-ad58dd94cef3",
+    "date": "2026-06-03",
+    "source": "YZi Labs: YZi Labs",
+    "location": "Remote",
+    "department": "Finance",
+    "active": true,
+    "slug": "manager4cef3",
+    "tags": [
+      "Private Equity",
+      "Venture Capital",
+      "Crypto",
+      "Digital Asset",
+      "AI",
+      "Biotech"
+    ],
+    "skills": [
+      "Private Equity",
+      "Venture Capital",
+      "Crypto",
+      "Digital Asset",
+      "AI",
+      "Biotech"
+    ],
+    "level": "Senior",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-934d1eb2-3a2e-44ce-a15e-9ed7845dd080",
+    "title": "AI & Web3 Researcher",
+    "company": "OptimAI Network",
+    "link": "https://talent.yzilabs.com/jobs/934d1eb2-3a2e-44ce-a15e-9ed7845dd080",
+    "date": "2026-06-02",
+    "source": "YZi Labs: OptimAI Network",
+    "location": "Remote",
+    "department": "Research",
+    "active": true,
+    "slug": "aidd080",
+    "tags": [
+      "Research",
+      "Agentic AI",
+      "Web3"
+    ],
+    "skills": [
+      "Research",
+      "Agentic AI",
+      "Web3"
+    ],
+    "level": "Senior",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-b5a0ceff-4712-4ea1-9f5a-6fe442818fa9",
+    "title": "Markets Operator",
+    "company": "Predict.fun",
+    "link": "https://talent.yzilabs.com/jobs/b5a0ceff-4712-4ea1-9f5a-6fe442818fa9",
+    "date": "2026-06-11",
+    "source": "YZi Labs: Predict.fun",
+    "location": "Remote",
+    "department": "Operations",
+    "active": true,
+    "slug": "markets18fa9",
+    "tags": [
+      "Prediction Markets",
+      "Technical Writing",
+      "Remote"
+    ],
+    "skills": [
+      "Prediction Markets",
+      "Technical Writing",
+      "Remote"
+    ],
+    "level": "Mid",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-53ce6fb4-9fa8-4979-921f-cd54c3eee49d",
+    "title": "Web3 Security Lead",
+    "company": "OpenEden",
+    "link": "https://talent.yzilabs.com/jobs/53ce6fb4-9fa8-4979-921f-cd54c3eee49d",
+    "date": "2026-06-08",
+    "source": "YZi Labs: OpenEden",
+    "location": "HCM",
+    "department": "Engineering",
+    "active": true,
+    "slug": "securityee49d",
+    "tags": [
+      "Defi",
+      "Securit",
+      "Web3",
+      "RWA"
+    ],
+    "skills": [
+      "Defi",
+      "Securit",
+      "Web3",
+      "RWA"
+    ],
+    "level": "Lead",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-57e3db17-ddbb-499a-9d90-76203ff3cdd8",
+    "title": "Regional Growth Manager",
+    "company": "Stablestock",
+    "link": "https://talent.yzilabs.com/jobs/57e3db17-ddbb-499a-9d90-76203ff3cdd8",
+    "date": "2026-06-17",
+    "source": "YZi Labs: Stablestock",
+    "location": "Remote/Turkey/India",
+    "department": "GTM",
+    "active": true,
+    "slug": "marketing3cdd8",
+    "tags": [
+      "RWA",
+      "Growth",
+      "Turkey",
+      "India",
+      "Fintech"
+    ],
+    "skills": [
+      "RWA",
+      "Growth",
+      "Turkey",
+      "India",
+      "Fintech"
+    ],
+    "level": "Lead",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-0a11126f-096c-43be-a4b7-41e895a1bcb7",
+    "title": "AI Marketing Manager",
+    "company": "Hertzflow",
+    "link": "https://talent.yzilabs.com/jobs/0a11126f-096c-43be-a4b7-41e895a1bcb7",
+    "date": "2026-06-09",
+    "source": "YZi Labs: Hertzflow",
+    "location": "Remote, APAC",
+    "department": "GTM",
+    "active": true,
+    "slug": "marketing1bcb7",
+    "tags": [
+      "Marketing",
+      "Growth",
+      "AI",
+      "Social"
+    ],
+    "skills": [
+      "Marketing",
+      "Growth",
+      "AI",
+      "Social"
+    ],
+    "level": "Mid",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-188fd6ca-9701-4a45-bbb0-c897f3b9f96c",
+    "title": "Senior Business Development Manager",
+    "company": "Hertzflow",
+    "link": "https://talent.yzilabs.com/jobs/188fd6ca-9701-4a45-bbb0-c897f3b9f96c",
+    "date": "2026-06-09",
+    "source": "YZi Labs: Hertzflow",
+    "location": "Remote / Global",
+    "department": "BD",
+    "active": true,
+    "slug": "manager9f96c",
+    "tags": [
+      "DeFi",
+      "Business Development",
+      "Growth"
+    ],
+    "skills": [
+      "DeFi",
+      "Business Development",
+      "Growth"
+    ],
+    "level": "Senior",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-5fe29765-3ba8-4829-a77a-486cc143d96b",
+    "title": "Backend Engineering Intern",
+    "company": "Manifolds.ai",
+    "link": "https://talent.yzilabs.com/jobs/5fe29765-3ba8-4829-a77a-486cc143d96b",
+    "date": "2026-07-01",
+    "source": "YZi Labs: Manifolds.ai",
+    "location": "Remote",
+    "department": "Engineering",
+    "active": true,
+    "slug": "backend3d96b",
+    "tags": [
+      "Agent、Multimodal、"
+    ],
+    "skills": [
+      "Agent、Multimodal、"
+    ],
+    "level": "Mid",
+    "type": "Internship"
+  },
+  {
+    "id": "yzilabs-14a9c157-fa08-432b-8066-1f5becebf131",
+    "title": "Product Manager",
+    "company": "TermiX",
+    "link": "https://talent.yzilabs.com/jobs/14a9c157-fa08-432b-8066-1f5becebf131",
+    "date": "2026-06-23",
+    "source": "YZi Labs: TermiX",
+    "location": "Remote",
+    "department": "Product",
+    "active": true,
+    "slug": "productbf131",
+    "tags": [
+      "AI Agent"
+    ],
+    "skills": [
+      "AI Agent"
+    ],
+    "level": "Mid",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-29b1f25b-9257-4781-8cc1-d74013de38ac",
+    "title": "Market Development Lead",
+    "company": "TermiX",
+    "link": "https://talent.yzilabs.com/jobs/29b1f25b-9257-4781-8cc1-d74013de38ac",
+    "date": "2026-06-23",
+    "source": "YZi Labs: TermiX",
+    "location": "Remote",
+    "department": "GTM",
+    "active": true,
+    "slug": "markete38ac",
+    "tags": [
+      "AI Agent Infra"
+    ],
+    "skills": [
+      "AI Agent Infra"
+    ],
+    "level": "Mid",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-089f729a-a9bb-42a5-b79f-bf2aefa886db",
+    "title": "Mobile Senior Engineer",
+    "company": "Vibe",
+    "link": "https://talent.yzilabs.com/jobs/089f729a-a9bb-42a5-b79f-bf2aefa886db",
+    "date": "2026-07-01",
+    "source": "YZi Labs: Vibe",
+    "location": "Remote",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineer886db",
+    "tags": [
+      "Mobile",
+      "Social",
+      "Stocks"
+    ],
+    "skills": [
+      "Mobile",
+      "Social",
+      "Stocks"
+    ],
+    "level": "Mid",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-0854ff24-e5b6-4257-ac37-586de47e26e3",
+    "title": "QA Engineer",
+    "company": "Stablestock",
+    "link": "https://talent.yzilabs.com/jobs/0854ff24-e5b6-4257-ac37-586de47e26e3",
+    "date": "2026-06-19",
+    "source": "YZi Labs: Stablestock",
+    "location": "Remote/China",
+    "department": "Engineering",
+    "active": true,
+    "slug": "qae26e3",
+    "tags": [
+      "QA",
+      "Fintech",
+      "Go",
+      "Java"
+    ],
+    "skills": [
+      "QA",
+      "Fintech",
+      "Go",
+      "Java"
+    ],
+    "level": "Mid",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-6c2ec394-a85e-4515-87a2-5ef72d0f2b22",
+    "title": "Senior BD Manager",
+    "company": "Aster",
+    "link": "https://talent.yzilabs.com/jobs/6c2ec394-a85e-4515-87a2-5ef72d0f2b22",
+    "date": "2026-07-08",
+    "source": "YZi Labs: Aster",
+    "location": "Remote",
+    "department": "BD",
+    "active": true,
+    "slug": "managerf2b22",
+    "tags": [
+      "Defi",
+      "DEX"
+    ],
+    "skills": [
+      "Defi",
+      "DEX"
+    ],
+    "level": "Senior",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-74c4c01d-d490-4bc8-87b0-9f440a14c733",
+    "title": "Head of Marketing (Asia)",
+    "company": "Nym",
+    "link": "https://talent.yzilabs.com/jobs/74c4c01d-d490-4bc8-87b0-9f440a14c733",
+    "date": "2026-07-01",
+    "source": "YZi Labs: Nym",
+    "location": "Remote",
+    "department": "GTM",
+    "active": true,
+    "slug": "marketing4c733",
+    "tags": [
+      "VPNs",
+      "tokens",
+      "security",
+      "privacy",
+      "KOLs"
+    ],
+    "skills": [
+      "VPNs",
+      "tokens",
+      "security",
+      "privacy",
+      "KOLs"
+    ],
+    "level": "Lead",
+    "type": "Contract"
+  },
+  {
+    "id": "yzilabs-f48032a0-8cbb-4ea3-8e0a-68231daf0fd2",
+    "title": "Business Development Manager",
+    "company": "Aster",
+    "link": "https://talent.yzilabs.com/jobs/f48032a0-8cbb-4ea3-8e0a-68231daf0fd2",
+    "date": "2026-07-08",
+    "source": "YZi Labs: Aster",
+    "location": "Remote",
+    "department": "BD",
+    "active": true,
+    "slug": "managerf0fd2",
+    "tags": [],
+    "skills": [],
+    "level": "Lead",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-4240dfeb-bf0a-452d-840e-35b89b630002",
+    "title": "Product Manager – Derivatives Trading",
+    "company": "Aster",
+    "link": "https://talent.yzilabs.com/jobs/4240dfeb-bf0a-452d-840e-35b89b630002",
+    "date": "2026-07-08",
+    "source": "YZi Labs: Aster",
+    "location": "Remote (APAC)",
+    "department": "Product",
+    "active": true,
+    "slug": "product30002",
+    "tags": [
+      "derivatives trading",
+      "Defi",
+      "on-chain trading",
+      "product management"
+    ],
+    "skills": [
+      "derivatives trading",
+      "Defi",
+      "on-chain trading",
+      "product management"
+    ],
+    "level": "Mid",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-ac782403-dfba-4780-bc30-89673bd984ae",
+    "title": "Growth & Trader Success Lead",
+    "company": "Frontrun",
+    "link": "https://talent.yzilabs.com/jobs/ac782403-dfba-4780-bc30-89673bd984ae",
+    "date": "2026-07-02",
+    "source": "YZi Labs: Frontrun",
+    "location": "Remote / Global",
+    "department": "GTM",
+    "active": true,
+    "slug": "trader984ae",
+    "tags": [
+      "growth",
+      "marketing",
+      "bd",
+      "onboarding",
+      "community",
+      "crypto",
+      "solana",
+      "trading",
+      "remote"
+    ],
+    "skills": [
+      "growth",
+      "marketing",
+      "bd",
+      "onboarding",
+      "community",
+      "crypto",
+      "solana",
+      "trading",
+      "remote"
+    ],
+    "level": "Lead",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-88c76883-7cc4-4043-a7e9-501ed81016cd",
+    "title": "Marketing Lead",
+    "company": "Perena",
+    "link": "https://talent.yzilabs.com/jobs/88c76883-7cc4-4043-a7e9-501ed81016cd",
+    "date": "2026-08-05",
+    "source": "YZi Labs: Perena",
+    "location": "Remote",
+    "department": "GTM",
+    "active": true,
+    "slug": "marketing016cd",
+    "tags": [
+      "Defi",
+      "Stablecoins",
+      "Solana",
+      "Marketing"
+    ],
+    "skills": [
+      "Defi",
+      "Stablecoins",
+      "Solana",
+      "Marketing"
+    ],
+    "level": "Senior",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-25c6f7b9-1dd6-41e0-be3c-dacd70ad462d",
+    "title": "Hardware Engineer (Consumer Electronics)",
+    "company": "OneKey Limited",
+    "link": "https://talent.yzilabs.com/jobs/25c6f7b9-1dd6-41e0-be3c-dacd70ad462d",
+    "date": "2026-08-03",
+    "source": "YZi Labs: OneKey Limited",
+    "location": "Shenzhen City, Guangdong Province",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineerd462d",
+    "tags": [
+      "Consumer electronic products",
+      "International certification experience",
+      "Hardware design",
+      "Structural integration"
+    ],
+    "skills": [
+      "Consumer electronic products",
+      "International certification experience",
+      "Hardware design",
+      "Structural integration"
+    ],
+    "level": "Junior",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-68a8802b-7e22-4c0b-a281-112a5d9e8c3f",
+    "title": "Legal & Regulatory Counsel",
+    "company": "Perena",
+    "link": "https://talent.yzilabs.com/jobs/68a8802b-7e22-4c0b-a281-112a5d9e8c3f",
+    "date": "2026-08-05",
+    "source": "YZi Labs: Perena",
+    "location": "Remote",
+    "department": "Other",
+    "active": true,
+    "slug": "compliancee8c3f",
+    "tags": [
+      "Defi",
+      "Stablecoins",
+      "Solana",
+      "Legal"
+    ],
+    "skills": [
+      "Defi",
+      "Stablecoins",
+      "Solana",
+      "Legal"
+    ],
+    "level": "Senior",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-9d45dfdf-e411-42d3-ab57-9c4cf31a3ead",
+    "title": "Solana Protocol Engineer",
+    "company": "Perena",
+    "link": "https://talent.yzilabs.com/jobs/9d45dfdf-e411-42d3-ab57-9c4cf31a3ead",
+    "date": "2026-08-05",
+    "source": "YZi Labs: Perena",
+    "location": "Remote",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineera3ead",
+    "tags": [
+      "Defi",
+      "Stablecoins",
+      "Solana",
+      "Rust",
+      "Smart Contracts",
+      "Engineering"
+    ],
+    "skills": [
+      "Defi",
+      "Stablecoins",
+      "Solana",
+      "Rust",
+      "Smart Contracts",
+      "Engineering"
+    ],
+    "level": "Senior",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-b471eb5b-1456-4d76-829c-52521f6afeb9",
+    "title": "Perenimals Growth Lead",
+    "company": "Perena",
+    "link": "https://talent.yzilabs.com/jobs/b471eb5b-1456-4d76-829c-52521f6afeb9",
+    "date": "2026-08-05",
+    "source": "YZi Labs: Perena",
+    "location": "Remote",
+    "department": "GTM",
+    "active": true,
+    "slug": "marketingafeb9",
+    "tags": [
+      "Defi",
+      "Stablecoin",
+      "Marketing",
+      "Solana"
+    ],
+    "skills": [
+      "Defi",
+      "Stablecoin",
+      "Marketing",
+      "Solana"
+    ],
+    "level": "Senior",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-8fea001a-0c56-4f2a-87ce-e0aaf24715df",
+    "title": "Senior Protocol Engineer",
+    "company": "Puffer Finance",
+    "link": "https://talent.yzilabs.com/jobs/8fea001a-0c56-4f2a-87ce-e0aaf24715df",
+    "date": "2026-08-24",
+    "source": "YZi Labs: Puffer Finance",
+    "location": "Remote / Asia / Europe / USA",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineer715df",
+    "tags": [
+      "Hiring",
+      "Engineer",
+      "Protocol",
+      "Based rollup",
+      "UniFi"
+    ],
+    "skills": [
+      "Hiring",
+      "Engineer",
+      "Protocol",
+      "Based rollup",
+      "UniFi"
+    ],
+    "level": "Senior",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-75a4fe87-e7e5-4e94-8bda-f3c2e0392061",
+    "title": "React‑Native Mobile Engineer",
+    "company": "SmartX",
+    "link": "https://talent.yzilabs.com/jobs/75a4fe87-e7e5-4e94-8bda-f3c2e0392061",
+    "date": "2026-08-27",
+    "source": "YZi Labs: SmartX",
+    "location": "Remote",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineer92061",
+    "tags": [
+      "React‑Native",
+      "Mobile Engineer",
+      "TypeScript",
+      "Cross‑Platform",
+      "Web3",
+      "Blockchain",
+      "On‑chain Transactions，memes"
+    ],
+    "skills": [
+      "React‑Native",
+      "Mobile Engineer",
+      "TypeScript",
+      "Cross‑Platform",
+      "Web3",
+      "Blockchain",
+      "On‑chain Transactions，memes"
+    ],
+    "level": "Medium",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-7f457f35-6108-4bf3-9407-bfbb0f2d4304",
+    "title": "Quantitative Researcher",
+    "company": "Bitway",
+    "link": "https://talent.yzilabs.com/jobs/7f457f35-6108-4bf3-9407-bfbb0f2d4304",
+    "date": "2026-08-09",
+    "source": "YZi Labs: Bitway",
+    "location": "Remote",
+    "department": "Research",
+    "active": true,
+    "slug": "traderd4304",
+    "tags": [
+      "DeFi",
+      "Trading"
+    ],
+    "skills": [
+      "DeFi",
+      "Trading"
+    ],
+    "level": "Senior",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-dc8359ce-29a1-43e5-b93f-8cd8a9e64651",
+    "title": "Operations Manager (Financial ERP)",
+    "company": "FinTax",
+    "link": "https://talent.yzilabs.com/jobs/dc8359ce-29a1-43e5-b93f-8cd8a9e64651",
+    "date": "2026-08-28",
+    "source": "YZi Labs: FinTax",
+    "location": "Remote / Global",
+    "department": "Operations",
+    "active": true,
+    "slug": "manager64651",
+    "tags": [],
+    "skills": [],
+    "level": "Senior",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-00b4d737-9481-4c61-9750-e3b30e193dd0",
+    "title": "Head of Trading",
+    "company": "Bitway",
+    "link": "https://talent.yzilabs.com/jobs/00b4d737-9481-4c61-9750-e3b30e193dd0",
+    "date": "2026-08-24",
+    "source": "YZi Labs: Bitway",
+    "location": "Remote",
+    "department": "Other",
+    "active": true,
+    "slug": "head93dd0",
+    "tags": [
+      "Trading",
+      "Market Making",
+      "Arbitrage"
+    ],
+    "skills": [
+      "Trading",
+      "Market Making",
+      "Arbitrage"
+    ],
+    "level": "Lead",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-a4385c02-d91a-4021-bdb3-249b36e24db0",
+    "title": "Product Manager",
+    "company": "FinTax",
+    "link": "https://talent.yzilabs.com/jobs/a4385c02-d91a-4021-bdb3-249b36e24db0",
+    "date": "2026-08-28",
+    "source": "YZi Labs: FinTax",
+    "location": "Remote / Global",
+    "department": "Product",
+    "active": true,
+    "slug": "product24db0",
+    "tags": [],
+    "skills": [],
+    "level": "Senior",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-7eace075-bdc7-4782-8ce6-5f5bf535fe6d",
+    "title": "Growth Lead — Trading",
+    "company": "SmartX",
+    "link": "https://talent.yzilabs.com/jobs/7eace075-bdc7-4782-8ce6-5f5bf535fe6d",
+    "date": "2026-09-01",
+    "source": "YZi Labs: SmartX",
+    "location": "Remote",
+    "department": "GTM",
+    "active": true,
+    "slug": "marketing5fe6d",
+    "tags": [
+      "crypto",
+      "trading",
+      "meme",
+      "growth"
+    ],
+    "skills": [
+      "crypto",
+      "trading",
+      "meme",
+      "growth"
+    ],
+    "level": "Lead",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-91fc1d8c-3c86-40c9-b8ad-1332133b7862",
+    "title": "Growth Manager — Trading",
+    "company": "SmartX",
+    "link": "https://talent.yzilabs.com/jobs/91fc1d8c-3c86-40c9-b8ad-1332133b7862",
+    "date": "2026-09-01",
+    "source": "YZi Labs: SmartX",
+    "location": "Remote",
+    "department": "GTM",
+    "active": true,
+    "slug": "marketingb7862",
+    "tags": [
+      "Growth Manager",
+      "Trading Growth",
+      "Crypto Growth",
+      "Trading Conversion",
+      "On-chain Trading"
+    ],
+    "skills": [
+      "Growth Manager",
+      "Trading Growth",
+      "Crypto Growth",
+      "Trading Conversion",
+      "On-chain Trading"
+    ],
+    "level": "Mid",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-bd430bcc-0b07-491b-b84f-7b49747d7ef3",
+    "title": "Social Media & Brand Manager",
+    "company": "SmartX",
+    "link": "https://talent.yzilabs.com/jobs/bd430bcc-0b07-491b-b84f-7b49747d7ef3",
+    "date": "2026-09-01",
+    "source": "YZi Labs: SmartX",
+    "location": "Remote",
+    "department": "GTM",
+    "active": true,
+    "slug": "managerd7ef3",
+    "tags": [
+      "Social Media Management",
+      "Brand Marketing",
+      "Content Growth",
+      "Crypto Community",
+      "X (Twitter)",
+      "Personal‑IP Operation"
+    ],
+    "skills": [
+      "Social Media Management",
+      "Brand Marketing",
+      "Content Growth",
+      "Crypto Community",
+      "X (Twitter)",
+      "Personal‑IP Operation"
+    ],
+    "level": "Mid",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-0e3685bb-a274-4f4a-8bf9-9446e7f45dbf",
+    "title": "Brand Operations Specialist",
+    "company": "FinTax",
+    "link": "https://talent.yzilabs.com/jobs/0e3685bb-a274-4f4a-8bf9-9446e7f45dbf",
+    "date": "2026-08-28",
+    "source": "YZi Labs: FinTax",
+    "location": "Remote / Global",
+    "department": "Operations",
+    "active": true,
+    "slug": "operations45dbf",
+    "tags": [],
+    "skills": [],
+    "level": "Mid",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-9fb2db13-5fff-4011-9e01-c6e19ba6b0d3",
+    "title": "UI/UX Designer",
+    "company": "SmartX",
+    "link": "https://talent.yzilabs.com/jobs/9fb2db13-5fff-4011-9e01-c6e19ba6b0d3",
+    "date": "2026-09-01",
+    "source": "YZi Labs: SmartX",
+    "location": "Remote",
+    "department": "Design",
+    "active": true,
+    "slug": "frontend6b0d3",
+    "tags": [
+      "UI/UX Design",
+      "Fintech",
+      "Trading Platform",
+      "Dashboard Design",
+      "Component Library",
+      "Web3 Product Design"
+    ],
+    "skills": [
+      "UI/UX Design",
+      "Fintech",
+      "Trading Platform",
+      "Dashboard Design",
+      "Component Library",
+      "Web3 Product Design"
+    ],
+    "level": "Mid",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-d6c4ac7e-2512-436a-acdb-e985a418c90c",
+    "title": "Fullstack Engineer",
+    "company": "Frontrun.pro",
+    "link": "https://talent.yzilabs.com/jobs/d6c4ac7e-2512-436a-acdb-e985a418c90c",
+    "date": "2026-09-03",
+    "source": "YZi Labs: Frontrun.pro",
+    "location": "Remote(North America Timezone)",
+    "department": "Engineering",
+    "active": true,
+    "slug": "fullstack8c90c",
+    "tags": [
+      "Engineering",
+      "Wallet",
+      "Full Stack"
+    ],
+    "skills": [
+      "Engineering",
+      "Wallet",
+      "Full Stack"
+    ],
+    "level": "Mid",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-96e62cff-69d8-43d3-b03b-01d0591fad49",
+    "title": "Head of BD",
+    "company": "Sats Terminal",
+    "link": "https://talent.yzilabs.com/jobs/96e62cff-69d8-43d3-b03b-01d0591fad49",
+    "date": "2026-09-08",
+    "source": "YZi Labs: Sats Terminal",
+    "location": "Remote, but ideally Asia or US",
+    "department": "BD",
+    "active": true,
+    "slug": "salesfad49",
+    "tags": [
+      "DeFi",
+      "AIFI",
+      "B2B"
+    ],
+    "skills": [
+      "DeFi",
+      "AIFI",
+      "B2B"
+    ],
+    "level": "VP",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-d4de5278-85d5-4119-a55f-9bdd6c2ecc99",
+    "title": "Marketing & Operations Manager",
+    "company": "XHunt",
+    "link": "https://talent.yzilabs.com/jobs/d4de5278-85d5-4119-a55f-9bdd6c2ecc99",
+    "date": "2026-09-07",
+    "source": "YZi Labs: XHunt",
+    "location": "Shanghai",
+    "department": "GTM",
+    "active": true,
+    "slug": "marketingecc99",
+    "tags": [],
+    "skills": [],
+    "level": "Mid",
+    "type": "Full-time"
+  },
+  {
+    "id": "yzilabs-a1a402e2-ad08-43a9-9bca-e2672a511ae8",
+    "title": "Director of Operation and Compliance",
+    "company": "Paimon Finance",
+    "link": "https://talent.yzilabs.com/jobs/a1a402e2-ad08-43a9-9bca-e2672a511ae8",
+    "date": "2026-09-08",
+    "source": "YZi Labs: Paimon Finance",
+    "location": "Remote",
+    "department": "Operations",
+    "active": true,
+    "slug": "compliance11ae8",
+    "tags": [
+      "Defi",
+      "Pre-IPO",
+      "Operation",
+      "Compliance",
+      "SEC"
+    ],
+    "skills": [
+      "Defi",
+      "Pre-IPO",
+      "Operation",
+      "Compliance",
+      "SEC"
+    ],
+    "level": "Mid",
+    "type": "Full-time"
+  },
+  {
     "id": "9fc8b2c1-e8ab-4f74-88c3-78c23cbba280",
     "title": "Senior Architect of the Securities Trading System 证券交易系统资深架构师",
     "company": "Bitget",
