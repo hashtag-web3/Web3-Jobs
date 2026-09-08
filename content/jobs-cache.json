@@ -1,5 +1,696 @@
 [
   {
+    "id": "d6d0c99a-f281-4efe-89c4-026f7f5edc2b",
+    "title": "Quantitative Analyst Intern",
+    "company": "Talos Trading",
+    "link": "https://jobs.ashbyhq.com/Talos-Trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b",
+    "date": "2026-09-08",
+    "source": "ashby: Talos Trading [Talos-Trading]",
+    "location": "New York",
+    "department": "Internships",
+    "active": true,
+    "slug": "roleedc2b"
+  },
+  {
+    "id": "2c833180-484f-4657-80e3-f822cf1a0285",
+    "title": "Software Engineer Intern, RFQ",
+    "company": "Talos Trading",
+    "link": "https://jobs.ashbyhq.com/Talos-Trading/2c833180-484f-4657-80e3-f822cf1a0285",
+    "date": "2026-09-08",
+    "source": "ashby: Talos Trading [Talos-Trading]",
+    "location": "New York",
+    "department": "Internships",
+    "active": true,
+    "slug": "rolea0285"
+  },
+  {
+    "id": "91fd5274-3b6b-43cf-b366-9f6dc2ae5977",
+    "title": "Software Engineer Intern, Dealer",
+    "company": "Talos Trading",
+    "link": "https://jobs.ashbyhq.com/Talos-Trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977",
+    "date": "2026-09-08",
+    "source": "ashby: Talos Trading [Talos-Trading]",
+    "location": "New York",
+    "department": "Internships",
+    "active": true,
+    "slug": "rolee5977"
+  },
+  {
+    "id": "ashby-biti-f88a45f4-c6cc-4d7f-a117-4b04fef6f4dc",
+    "title": "UI/UX Designer",
+    "company": "Biti",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-08",
+    "source": "ashby:biti",
+    "link": "https://jobs.ashbyhq.com/biti/f88a45f4-c6cc-4d7f-a117-4b04fef6f4dc",
+    "applyUrl": "https://jobs.ashbyhq.com/biti/f88a45f4-c6cc-4d7f-a117-4b04fef6f4dc",
+    "department": "Operations",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "DeFi",
+      "Design",
+      "Wallet"
+    ],
+    "slug": "frontend6f4dc"
+  },
+  {
+    "id": "ashby-biti-f0f83396-ff2e-472a-b267-0a8bd430dd1f",
+    "title": "Social Media Manager",
+    "company": "Biti",
+    "location": "APAC",
+    "type": "PartTime",
+    "date": "2026-09-08",
+    "source": "ashby:biti",
+    "link": "https://jobs.ashbyhq.com/biti/f0f83396-ff2e-472a-b267-0a8bd430dd1f",
+    "applyUrl": "https://jobs.ashbyhq.com/biti/f0f83396-ff2e-472a-b267-0a8bd430dd1f",
+    "department": "Operations",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "DeFi",
+      "Design",
+      "Wallet"
+    ],
+    "slug": "manager0dd1f"
+  },
+  {
+    "id": "ashby-biti-cdc98d2d-6a3f-42e7-abfc-875ce6ac4269",
+    "title": "HR",
+    "company": "Biti",
+    "location": "Remote",
+    "type": "PartTime",
+    "date": "2026-09-08",
+    "source": "ashby:biti",
+    "link": "https://jobs.ashbyhq.com/biti/cdc98d2d-6a3f-42e7-abfc-875ce6ac4269",
+    "applyUrl": "https://jobs.ashbyhq.com/biti/cdc98d2d-6a3f-42e7-abfc-875ce6ac4269",
+    "department": "Operations",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "DeFi",
+      "Design",
+      "Wallet"
+    ],
+    "slug": "recruiterc4269"
+  },
+  {
+    "id": "ashby-biti-6f8cc05f-c795-4667-906c-9e6ae6ae685f",
+    "title": "QA Engineer",
+    "company": "Biti",
+    "location": "Remote",
+    "type": "PartTime",
+    "date": "2026-09-08",
+    "source": "ashby:biti",
+    "link": "https://jobs.ashbyhq.com/biti/6f8cc05f-c795-4667-906c-9e6ae6ae685f",
+    "applyUrl": "https://jobs.ashbyhq.com/biti/6f8cc05f-c795-4667-906c-9e6ae6ae685f",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "DeFi",
+      "Design",
+      "Wallet"
+    ],
+    "slug": "jobe685f"
+  },
+  {
+    "id": "ashby-biti-3b42b9ac-57d4-4701-bb92-92a08c28e8ef",
+    "title": "Backend Engineer",
+    "company": "Biti",
+    "location": "Remote",
+    "type": "PartTime",
+    "date": "2026-09-08",
+    "source": "ashby:biti",
+    "link": "https://jobs.ashbyhq.com/biti/3b42b9ac-57d4-4701-bb92-92a08c28e8ef",
+    "applyUrl": "https://jobs.ashbyhq.com/biti/3b42b9ac-57d4-4701-bb92-92a08c28e8ef",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "DeFi",
+      "Design",
+      "Wallet"
+    ],
+    "slug": "backend8e8ef"
+  },
+  {
+    "id": "ashby-biti-e3ee7e6e-300d-469c-887e-bbf66c77e0ef",
+    "title": "Frontend Engineer",
+    "company": "Biti",
+    "location": "Remote",
+    "type": "PartTime",
+    "date": "2026-09-08",
+    "source": "ashby:biti",
+    "link": "https://jobs.ashbyhq.com/biti/e3ee7e6e-300d-469c-887e-bbf66c77e0ef",
+    "applyUrl": "https://jobs.ashbyhq.com/biti/e3ee7e6e-300d-469c-887e-bbf66c77e0ef",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "DeFi",
+      "Design",
+      "Wallet"
+    ],
+    "slug": "frontend7e0ef"
+  },
+  {
+    "id": "ashby-biti-067c14e2-a137-4d16-a98d-c2bdb7df2c4a",
+    "title": "Wallet Engineer",
+    "company": "Biti",
+    "location": "Remote",
+    "type": "PartTime",
+    "date": "2026-09-08",
+    "source": "ashby:biti",
+    "link": "https://jobs.ashbyhq.com/biti/067c14e2-a137-4d16-a98d-c2bdb7df2c4a",
+    "applyUrl": "https://jobs.ashbyhq.com/biti/067c14e2-a137-4d16-a98d-c2bdb7df2c4a",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "DeFi",
+      "Design",
+      "Wallet"
+    ],
+    "slug": "jobf2c4a"
+  },
+  {
+    "id": "ashby-biti-9c6f0046-27a8-4d51-935b-fbfa4fa319ec",
+    "title": "DevOps Engineer",
+    "company": "Biti",
+    "location": "Remote",
+    "type": "PartTime",
+    "date": "2026-09-08",
+    "source": "ashby:biti",
+    "link": "https://jobs.ashbyhq.com/biti/9c6f0046-27a8-4d51-935b-fbfa4fa319ec",
+    "applyUrl": "https://jobs.ashbyhq.com/biti/9c6f0046-27a8-4d51-935b-fbfa4fa319ec",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "DeFi",
+      "Design",
+      "Wallet"
+    ],
+    "slug": "job319ec"
+  },
+  {
+    "id": "ashby-meow-5eaa413d-4dc1-4be8-bb27-820595ca7ee0",
+    "title": "Accounting Lead",
+    "company": "Meow",
+    "location": "Canada",
+    "type": "Contract",
+    "date": "2026-09-08",
+    "source": "ashby:meow",
+    "link": "https://jobs.ashbyhq.com/meow/5eaa413d-4dc1-4be8-bb27-820595ca7ee0",
+    "applyUrl": "https://jobs.ashbyhq.com/meow/5eaa413d-4dc1-4be8-bb27-820595ca7ee0",
+    "department": "Finance",
+    "skills": [
+      "Web3",
+      "Fintech",
+      "Crypto",
+      "Compliance",
+      "Banking"
+    ],
+    "slug": "managera7ee0"
+  },
+  {
+    "id": "ashby-meow-43b20772-7e7e-4384-b524-d32d8b71002c",
+    "title": "EDD Analyst",
+    "company": "Meow",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-08",
+    "source": "ashby:meow",
+    "link": "https://jobs.ashbyhq.com/meow/43b20772-7e7e-4384-b524-d32d8b71002c",
+    "applyUrl": "https://jobs.ashbyhq.com/meow/43b20772-7e7e-4384-b524-d32d8b71002c",
+    "department": "Compliance",
+    "skills": [
+      "Web3",
+      "Fintech",
+      "Crypto",
+      "Compliance",
+      "Banking"
+    ],
+    "slug": "quant1002c"
+  },
+  {
+    "id": "ashby-meow-d6a23f3e-d568-4d6d-9eb6-1773b288e1aa",
+    "title": "GTM Associate",
+    "company": "Meow",
+    "location": "New York City",
+    "type": "FullTime",
+    "date": "2026-09-08",
+    "source": "ashby:meow",
+    "link": "https://jobs.ashbyhq.com/meow/d6a23f3e-d568-4d6d-9eb6-1773b288e1aa",
+    "applyUrl": "https://jobs.ashbyhq.com/meow/d6a23f3e-d568-4d6d-9eb6-1773b288e1aa",
+    "department": "GTM",
+    "skills": [
+      "Web3",
+      "Fintech",
+      "Crypto",
+      "Compliance",
+      "Banking"
+    ],
+    "slug": "associate8e1aa"
+  },
+  {
+    "id": "ashby-meow-0db09b6a-9ee7-4787-997c-5aace86322d1",
+    "title": "Software Engineer",
+    "company": "Meow",
+    "location": "Canada",
+    "type": "FullTime",
+    "date": "2026-09-08",
+    "source": "ashby:meow",
+    "link": "https://jobs.ashbyhq.com/meow/0db09b6a-9ee7-4787-997c-5aace86322d1",
+    "applyUrl": "https://jobs.ashbyhq.com/meow/0db09b6a-9ee7-4787-997c-5aace86322d1",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Fintech",
+      "Crypto",
+      "Compliance",
+      "Banking"
+    ],
+    "slug": "job322d1"
+  },
+  {
+    "id": "ashby-meow-0921a96a-5167-44a9-8ae5-ff4020a6975e",
+    "title": "Account Executive",
+    "company": "Meow",
+    "location": "New York City",
+    "type": "FullTime",
+    "date": "2026-09-08",
+    "source": "ashby:meow",
+    "link": "https://jobs.ashbyhq.com/meow/0921a96a-5167-44a9-8ae5-ff4020a6975e",
+    "applyUrl": "https://jobs.ashbyhq.com/meow/0921a96a-5167-44a9-8ae5-ff4020a6975e",
+    "department": "GTM",
+    "skills": [
+      "Web3",
+      "Fintech",
+      "Crypto",
+      "Compliance",
+      "Banking"
+    ],
+    "slug": "job6975e"
+  },
+  {
+    "id": "ashby-alpenlabs-c94f8d5f-4969-41a6-98ab-b4b7a68ae1a1",
+    "title": "Software Development Engineer in Test (SDET)",
+    "company": "Alpen Labs",
+    "location": "Remote - EMEA",
+    "type": "FullTime",
+    "date": "2026-09-08",
+    "source": "ashby:alpenlabs",
+    "link": "https://jobs.ashbyhq.com/alpenlabs/c94f8d5f-4969-41a6-98ab-b4b7a68ae1a1",
+    "applyUrl": "https://jobs.ashbyhq.com/alpenlabs/c94f8d5f-4969-41a6-98ab-b4b7a68ae1a1",
+    "department": "Product",
+    "skills": [
+      "Web3",
+      "Bitcoin",
+      "Zero Knowledge",
+      "DeFi",
+      "Layer2"
+    ],
+    "slug": "jobae1a1"
+  },
+  {
+    "id": "ashby-alpenlabs-072c28fc-0146-42fe-8afd-af3f1e2f2346",
+    "title": "Senior Site Reliability Engineer",
+    "company": "Alpen Labs",
+    "location": "NAMER",
+    "type": "FullTime",
+    "date": "2026-09-08",
+    "source": "ashby:alpenlabs",
+    "link": "https://jobs.ashbyhq.com/alpenlabs/072c28fc-0146-42fe-8afd-af3f1e2f2346",
+    "applyUrl": "https://jobs.ashbyhq.com/alpenlabs/072c28fc-0146-42fe-8afd-af3f1e2f2346",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Bitcoin",
+      "Zero Knowledge",
+      "DeFi",
+      "Layer2"
+    ],
+    "slug": "jobf2346"
+  },
+  {
+    "id": "ashby-alpenlabs-03fb8763-273b-409d-8eac-86116f5c93e6",
+    "title": "Engineering Team Lead",
+    "company": "Alpen Labs",
+    "location": "Remote ",
+    "type": "FullTime",
+    "date": "2026-09-08",
+    "source": "ashby:alpenlabs",
+    "link": "https://jobs.ashbyhq.com/alpenlabs/03fb8763-273b-409d-8eac-86116f5c93e6",
+    "applyUrl": "https://jobs.ashbyhq.com/alpenlabs/03fb8763-273b-409d-8eac-86116f5c93e6",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Bitcoin",
+      "Zero Knowledge",
+      "DeFi",
+      "Layer2"
+    ],
+    "slug": "managerc93e6"
+  },
+  {
+    "id": "greenhouse-bybit-4971231101",
+    "title": "Senior Growth Product Manager - User Activation",
+    "company": "Bybit",
+    "location": "Abu Dhabi, UAE",
+    "type": "Full-time",
+    "date": "2026-09-08",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971231101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971231101",
+    "department": "APP Business Unit (ABU)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "product31101"
+  },
+  {
+    "id": "greenhouse-bybit-4969826101",
+    "title": "Senior Compliance Specialist",
+    "company": "Bybit",
+    "location": "Istanbul, Turkey",
+    "type": "Full-time",
+    "date": "2026-09-08",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4969826101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4969826101",
+    "department": "Legal & Compliance",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "compliance26101"
+  },
+  {
+    "id": "greenhouse-bybit-4970498101",
+    "title": "[EU] ICT Incident Manager",
+    "company": "Bybit",
+    "location": "Vienna, Austria",
+    "type": "Full-time",
+    "date": "2026-09-08",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4970498101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4970498101",
+    "department": "Europe",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "manager98101"
+  },
+  {
+    "id": "greenhouse-bybit-4970935101",
+    "title": "Anti-Money Laundering Manager",
+    "company": "Bybit",
+    "location": "Istanbul, Turkey",
+    "type": "Full-time",
+    "date": "2026-09-08",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4970935101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4970935101",
+    "department": "Legal & Compliance",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "manager35101"
+  },
+  {
+    "id": "bamboo-yellowcard-422",
+    "title": "Treasury & Liquidity Specialist",
+    "company": "Yellow Card",
+    "location": "Remote",
+    "type": "Full-Time",
+    "date": "2026-09-08",
+    "source": "bamboohr:yellowcard",
+    "link": "https://yellowcard.bamboohr.com/careers/422",
+    "applyUrl": "https://yellowcard.bamboohr.com/careers/422",
+    "department": "Treasury",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "job422"
+  },
+  {
+    "id": "greenhouse-openzeppelin-7988933003",
+    "title": "AI Operations Engineer",
+    "company": "OpenZeppelin",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-08",
+    "source": "greenhouse:openzeppelin",
+    "link": "https://openzeppelin.com/careers/opening/?gh_jid=7988933003",
+    "applyUrl": "https://openzeppelin.com/careers/opening/?gh_jid=7988933003",
+    "department": "Operations",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "operations33003"
+  },
+  {
+    "id": "ashby-oplabs-e39651c4-5270-45e7-80d0-406942a0f2be",
+    "title": "Partnerships Lead, Strategic Accounts",
+    "company": "Optimism",
+    "location": "New York",
+    "type": "FullTime",
+    "date": "2026-09-08",
+    "source": "ashby:oplabs",
+    "link": "https://jobs.ashbyhq.com/oplabs/e39651c4-5270-45e7-80d0-406942a0f2be",
+    "applyUrl": "https://jobs.ashbyhq.com/oplabs/e39651c4-5270-45e7-80d0-406942a0f2be",
+    "department": "OP Labs",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "manager0f2be"
+  },
+  {
+    "id": "greenhouse-fireblocks-4697720006",
+    "title": "Technology Alliances Director",
+    "company": "Fireblocks",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-08",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4697720006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4697720006",
+    "department": "Sales",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job20006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4709413006",
+    "title": "Senior Talent Acquisition Partner - GTM",
+    "company": "Fireblocks",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-08",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4709413006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4709413006",
+    "department": "People",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "recruiter13006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4682157006",
+    "title": "Senior QA Engineer (Financial Apps)",
+    "company": "Fireblocks",
+    "location": "Belgrade, Belgrade, Serbia; Berlin, Berlin, Germany; Georgia; Praha, Prague, Czech Republic; United Kingdom; Warszawa, Masovian Voivodeship, Poland",
+    "type": "Full-time",
+    "date": "2026-09-08",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4682157006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4682157006",
+    "department": "R&D",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job57006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4709587006",
+    "title": "GRC Operations Specialist",
+    "company": "Fireblocks",
+    "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+    "type": "Full-time",
+    "date": "2026-09-08",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4709587006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4709587006",
+    "department": "Security",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "operations87006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4692079006",
+    "title": "GRC Expert",
+    "company": "Fireblocks",
+    "location": "Berlin, Berlin, Germany",
+    "type": "Full-time",
+    "date": "2026-09-08",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4692079006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4692079006",
+    "department": "Security",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job79006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4703082006",
+    "title": "Fullstack Engineer, Embedded Wallet",
+    "company": "Fireblocks",
+    "location": "United States",
+    "type": "Full-time",
+    "date": "2026-09-08",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4703082006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4703082006",
+    "department": "R&D",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job82006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4695814006",
+    "title": "Full Stack Engineer, Blockchain",
+    "company": "Fireblocks",
+    "location": "London",
+    "type": "Full-time",
+    "date": "2026-09-08",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4695814006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4695814006",
+    "department": "R&D",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job14006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4711488006",
+    "title": "Director of Operations, Payments EMEA",
+    "company": "Fireblocks",
+    "location": "Zürich, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-08",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4711488006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4711488006",
+    "department": "Financial Services",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "operations88006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4706203006",
+    "title": "DevOps Team Leader",
+    "company": "Fireblocks",
+    "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+    "type": "Full-time",
+    "date": "2026-09-08",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4706203006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4706203006",
+    "department": "R&D",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "manager03006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4700087006",
+    "title": "Commercial Counsel, AMER",
+    "company": "Fireblocks",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-08",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4700087006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4700087006",
+    "department": "Legal & Compliance",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job87006"
+  },
+  {
     "id": "17980ea9-154a-482c-992e-cc626cd9489d",
     "title": "LATAM VIP Relationship Manager (Spanish)",
     "company": "Bitget",
