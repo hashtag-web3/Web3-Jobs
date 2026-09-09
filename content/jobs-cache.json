@@ -1,5 +1,1298 @@
 [
   {
+    "id": "pwc-digital-assurance-digital-assets-senior-associate",
+    "title": "Digital Assurance & Transparency - Digital Assets Senior Associate",
+    "company": "PwC",
+    "date": "2026-09-04",
+    "source": "PwC Careers [pwc]",
+    "location": "New York, NY / San Francisco, CA / Hybrid",
+    "department": "Digital Asset Audit & Assurance",
+    "active": true,
+    "slug": "seniorpwc04",
+    "link": "https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/NY-New-York/Digital-Assurance---Transparency---Digital-Assets-Senior-Associate_758287WD?source=US_EXP_Careers"
+  },
+  {
+    "id": "yzilabs-96e62cff-69d8-43d3-b03b-01d0591fad49",
+    "title": "Head of BD",
+    "company": "Sats Terminal",
+    "link": "https://talent.yzilabs.com/jobs/96e62cff-69d8-43d3-b03b-01d0591fad49",
+    "date": "2026-09-08",
+    "source": "YZi Labs: Sats Terminal",
+    "location": "Remote, but ideally Asia or US",
+    "department": "BD",
+    "active": true,
+    "slug": "salesfad49",
+    "tags": [
+      "DeFi",
+      "AIFI",
+      "B2B"
+    ],
+    "skills": [
+      "DeFi",
+      "AIFI",
+      "B2B"
+    ],
+    "level": "VP",
+    "type": "Full-time"
+  },
+  {
+    "id": "f08c1ce3-a31b-4e31-a95a-2aeabf7da807",
+    "title": "BGW Senior Backend Engineer 区块链资深后端工程师",
+    "company": "Bitget",
+    "link": "https://hire-r1.mokahr.com/social-recruitment/bitget/100000079#/job/f08c1ce3-a31b-4e31-a95a-2aeabf7da807",
+    "date": "2026-08-07",
+    "source": "MokaHR: Bitget [bitget]",
+    "location": "Remote / Global",
+    "department": "Technical Development",
+    "active": true,
+    "slug": "operationsda807"
+  },
+  {
+    "id": "c03b2669-6716-4617-9df8-1f5f9433ae25",
+    "title": "Brazil VIP Relationship Manager",
+    "company": "Bitget",
+    "link": "https://hire-r1.mokahr.com/social-recruitment/bitget/100000079#/job/c03b2669-6716-4617-9df8-1f5f9433ae25",
+    "date": "2026-08-07",
+    "source": "MokaHR: Bitget [bitget]",
+    "location": "Remote / Global",
+    "department": "Business Development",
+    "active": true,
+    "slug": "operations3ae25"
+  },
+  {
+    "id": "d962dc39-8839-4e13-a37a-baba49e52b44",
+    "title": "Graduate Algorithmic Trader 2027",
+    "company": "Wintermute",
+    "link": "https://jobs.lever.co/wintermute-trading/d962dc39-8839-4e13-a37a-baba49e52b44",
+    "date": "2026-09-01",
+    "source": "Lever: Wintermute [wintermute-trading]",
+    "location": "New York",
+    "department": "Trading",
+    "active": true,
+    "slug": "role52b44"
+  },
+  {
+    "id": "4385041009",
+    "title": "Staff CX Software Engineer",
+    "company": "Digital Asset",
+    "link": "https://job-boards.greenhouse.io/digitalassetcorp/jobs/4385041009",
+    "date": "2026-08-27",
+    "source": "Greenhouse: Digital Asset [digitalassetcorp]",
+    "location": "London",
+    "department": "CX Engineering",
+    "active": true,
+    "slug": "role41009"
+  },
+  {
+    "id": "4357039009",
+    "title": "Senior Technical Support Engineer",
+    "company": "Digital Asset",
+    "link": "https://job-boards.greenhouse.io/digitalassetcorp/jobs/4357039009",
+    "date": "2026-08-13",
+    "source": "Greenhouse: Digital Asset [digitalassetcorp]",
+    "location": "Sydney",
+    "department": "Tech Support",
+    "active": true,
+    "slug": "role39009"
+  },
+  {
+    "id": "4371591009",
+    "title": "Lead CX Solution Manager",
+    "company": "Digital Asset",
+    "link": "https://job-boards.greenhouse.io/digitalassetcorp/jobs/4371591009",
+    "date": "2026-08-19",
+    "source": "Greenhouse: Digital Asset [digitalassetcorp]",
+    "location": "Hong Kong",
+    "department": "Solutions Design",
+    "active": true,
+    "slug": "role91009"
+  },
+  {
+    "id": "greenhouse-bybit-4958625101",
+    "title": "VIP Relationship Manager",
+    "company": "Bybit",
+    "location": "Abu Dhabi, UAE",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4958625101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4958625101",
+    "department": "Wealth Business Unit (WBU)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "manager25101"
+  },
+  {
+    "id": "greenhouse-bybit-4948627101",
+    "title": "Senior Principal Site Reliability Engineer",
+    "company": "Bybit",
+    "location": "Hong Kong SAR",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4948627101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4948627101",
+    "department": "Infrastructure",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "job27101"
+  },
+  {
+    "id": "greenhouse-bybit-4855357101",
+    "title": "Senior Principal Backend Development Engineer",
+    "company": "Bybit",
+    "location": "Kuala Lumpur, Malaysia",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4855357101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4855357101",
+    "department": "AI",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "backend57101"
+  },
+  {
+    "id": "greenhouse-bybit-4928053101",
+    "title": "Senior Growth Product Manager - User Activation",
+    "company": "Bybit",
+    "location": "Abu Dhabi, UAE",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4928053101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4928053101",
+    "department": "Growth Product Team",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "product53101"
+  },
+  {
+    "id": "greenhouse-bybit-4873154101",
+    "title": "Senior Data Analyst",
+    "company": "Bybit",
+    "location": "Abu Dhabi, UAE",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4873154101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4873154101",
+    "department": "Business Intelligence",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "quant54101"
+  },
+  {
+    "id": "greenhouse-bybit-4932856101",
+    "title": "MLRO & Compliance Officer, UAE (ADGM) - RIE & RCH",
+    "company": "Bybit",
+    "location": "Abu Dhabi, UAE",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4932856101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4932856101",
+    "department": "Legal & Compliance",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "compliance56101"
+  },
+  {
+    "id": "greenhouse-bybit-4882378101",
+    "title": "MLRO & Compliance Officer, UAE (ADGM) - Broker Dealer Entity",
+    "company": "Bybit",
+    "location": "Abu Dhabi, UAE",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4882378101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4882378101",
+    "department": "Legal & Compliance",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "compliance78101"
+  },
+  {
+    "id": "greenhouse-bybit-4942186101",
+    "title": "Lead Backend Development Engineer",
+    "company": "Bybit",
+    "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4942186101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4942186101",
+    "department": "Fiat R&D",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "backend86101"
+  },
+  {
+    "id": "greenhouse-bybit-4908935101",
+    "title": "Lead Backend Development Engineer",
+    "company": "Bybit",
+    "location": "Kuala Lumpur, Malaysia",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4908935101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4908935101",
+    "department": "Infrastructure",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "backend35101"
+  },
+  {
+    "id": "greenhouse-bybit-4954162101",
+    "title": "IT Audit Manager",
+    "company": "Bybit",
+    "location": "Vienna, Austria",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4954162101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4954162101",
+    "department": "Europe",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "security62101"
+  },
+  {
+    "id": "greenhouse-bybit-4971452101",
+    "title": "[Intern] Test Development Engineer Intern （Trading Engine）",
+    "company": "Bybit",
+    "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971452101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971452101",
+    "department": "Unified Quality",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "job52101"
+  },
+  {
+    "id": "greenhouse-bybit-4971501101",
+    "title": "[Intern] Test Development Engineer Intern",
+    "company": "Bybit",
+    "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971501101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971501101",
+    "department": "Unified Quality",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "job01101"
+  },
+  {
+    "id": "greenhouse-bybit-4971459101",
+    "title": "[Intern] Test Development Engineer Intern",
+    "company": "Bybit",
+    "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971459101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971459101",
+    "department": "Unified Quality",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "job59101"
+  },
+  {
+    "id": "greenhouse-bybit-4971554101",
+    "title": "[Intern] Test Development Engineer Intern",
+    "company": "Bybit",
+    "location": "Hong Kong SAR",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971554101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971554101",
+    "department": "Unified Quality",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "job54101"
+  },
+  {
+    "id": "greenhouse-bybit-4971542101",
+    "title": "[Intern] Test Development Engineer Intern",
+    "company": "Bybit",
+    "location": "Hong Kong SAR",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971542101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971542101",
+    "department": "Unified Quality",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "job42101"
+  },
+  {
+    "id": "greenhouse-bybit-4971516101",
+    "title": "[Intern] Test Development Engineer Intern",
+    "company": "Bybit",
+    "location": "Hong Kong SAR",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971516101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971516101",
+    "department": "Unified Quality",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "job16101"
+  },
+  {
+    "id": "greenhouse-bybit-4971569101",
+    "title": "[Intern] Test Development Engineer Intern",
+    "company": "Bybit",
+    "location": "Hong Kong SAR",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971569101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971569101",
+    "department": "Unified Quality",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "job69101"
+  },
+  {
+    "id": "greenhouse-bybit-4941216101",
+    "title": "[GRC] Principal/Lead Crypto Capital Risk Engineer",
+    "company": "Bybit",
+    "location": "Kuala Lumpur, Malaysia",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4941216101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4941216101",
+    "department": "Group Risk Control",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "Fintech"
+    ],
+    "slug": "compliance16101"
+  },
+  {
+    "id": "d3dd5ab4-927d-434a-a12b-755d29da6240",
+    "title": "Business Development Intern / CertiK Ambassador",
+    "company": "CertiK",
+    "location": "Dubai",
+    "type": "Internship",
+    "date": "2026-02-13",
+    "source": "Lever: CertiK [certik]",
+    "link": "https://jobs.lever.co/certik/d3dd5ab4-927d-434a-a12b-755d29da6240",
+    "applyUrl": "https://jobs.lever.co/certik/d3dd5ab4-927d-434a-a12b-755d29da6240",
+    "department": "Business Development",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "joba6240",
+    "active": true
+  },
+  {
+    "id": "8dcfb59e-f70f-4543-acec-97850a522a61",
+    "title": "Business Development Intern / CertiK Ambassador",
+    "company": "CertiK",
+    "location": "San Francisco Bay Area, CA / Remote",
+    "type": "Internship",
+    "date": "2026-02-13",
+    "source": "Lever: CertiK [certik]",
+    "link": "https://jobs.lever.co/certik/8dcfb59e-f70f-4543-acec-97850a522a61",
+    "applyUrl": "https://jobs.lever.co/certik/8dcfb59e-f70f-4543-acec-97850a522a61",
+    "department": "Business Development",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job22a61",
+    "active": true
+  },
+  {
+    "id": "241dde9b-95d6-4eda-a207-a149934b16e1",
+    "title": "Business Development Intern / CertiK Ambassador",
+    "company": "CertiK",
+    "location": "New York, New York",
+    "type": "Internship",
+    "date": "2026-02-13",
+    "source": "Lever: CertiK [certik]",
+    "link": "https://jobs.lever.co/certik/241dde9b-95d6-4eda-a207-a149934b16e1",
+    "applyUrl": "https://jobs.lever.co/certik/241dde9b-95d6-4eda-a207-a149934b16e1",
+    "department": "Business Development",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "jobb16e1",
+    "active": true
+  },
+  {
+    "id": "greenhouse-flowtraders-8027267",
+    "title": "Senior Software Engineer, C++ (Market Data)",
+    "company": "Flow Traders",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:flowtraders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8027267",
+    "applyUrl": "https://job-boards.greenhouse.io/flowtraders/jobs/8027267",
+    "department": "Product Development",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job27267"
+  },
+  {
+    "id": "greenhouse-flowtraders-8025933",
+    "title": "Senior Software Engineer, C++",
+    "company": "Flow Traders",
+    "location": "Amsterdam",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:flowtraders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8025933",
+    "applyUrl": "https://job-boards.greenhouse.io/flowtraders/jobs/8025933",
+    "department": "Product Development",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job25933"
+  },
+  {
+    "id": "greenhouse-flowtraders-8027843",
+    "title": "Senior Software Engineer, C++",
+    "company": "Flow Traders",
+    "location": "London",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:flowtraders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8027843",
+    "applyUrl": "https://job-boards.greenhouse.io/flowtraders/jobs/8027843",
+    "department": "Product Development",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job27843"
+  },
+  {
+    "id": "greenhouse-flowtraders-7992594",
+    "title": "Senior Software Engineer, C++",
+    "company": "Flow Traders",
+    "location": "Amsterdam",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:flowtraders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/7992594",
+    "applyUrl": "https://job-boards.greenhouse.io/flowtraders/jobs/7992594",
+    "department": "Product Development",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job92594"
+  },
+  {
+    "id": "greenhouse-flowtraders-8052796",
+    "title": "Senior Software Engineer, C++",
+    "company": "Flow Traders",
+    "location": "Chicago",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:flowtraders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8052796",
+    "applyUrl": "https://job-boards.greenhouse.io/flowtraders/jobs/8052796",
+    "department": "Product Development",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job52796"
+  },
+  {
+    "id": "greenhouse-flowtraders-8027268",
+    "title": "Senior Software Engineer, C++",
+    "company": "Flow Traders",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:flowtraders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8027268",
+    "applyUrl": "https://job-boards.greenhouse.io/flowtraders/jobs/8027268",
+    "department": "Product Development",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job27268"
+  },
+  {
+    "id": "greenhouse-flowtraders-8027844",
+    "title": "Senior Software Engineer, C++",
+    "company": "Flow Traders",
+    "location": "London",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:flowtraders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8027844",
+    "applyUrl": "https://job-boards.greenhouse.io/flowtraders/jobs/8027844",
+    "department": "Product Development",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job27844"
+  },
+  {
+    "id": "greenhouse-flowtraders-8020047",
+    "title": "Senior Research Engineer (Based in Hong Kong)",
+    "company": "Flow Traders",
+    "location": "Amsterdam ",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:flowtraders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8020047",
+    "applyUrl": "https://job-boards.greenhouse.io/flowtraders/jobs/8020047",
+    "department": "Product Development",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job20047"
+  },
+  {
+    "id": "greenhouse-flowtraders-8156203",
+    "title": "Junior Quantitative Researcher",
+    "company": "Flow Traders",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:flowtraders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8156203",
+    "applyUrl": "https://job-boards.greenhouse.io/flowtraders/jobs/8156203",
+    "department": "Trading",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "quant56203"
+  },
+  {
+    "id": "greenhouse-flowtraders-4782837",
+    "title": "Graduate Trader",
+    "company": "Flow Traders",
+    "location": "Hong Kong",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:flowtraders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/4782837",
+    "applyUrl": "https://job-boards.greenhouse.io/flowtraders/jobs/4782837",
+    "department": "Trading",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "quant82837"
+  },
+  {
+    "id": "greenhouse-flowtraders-8131776",
+    "title": "Experienced Quantitative Researcher",
+    "company": "Flow Traders",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:flowtraders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8131776",
+    "applyUrl": "https://job-boards.greenhouse.io/flowtraders/jobs/8131776",
+    "department": "Trading",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "quant31776"
+  },
+  {
+    "id": "greenhouse-flowtraders-8111642",
+    "title": "Engineering Manager - Research Engineering",
+    "company": "Flow Traders",
+    "location": "Amsterdam ",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:flowtraders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8111642",
+    "applyUrl": "https://job-boards.greenhouse.io/flowtraders/jobs/8111642",
+    "department": "Product Development",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "manager11642"
+  },
+  {
+    "id": "greenhouse-flowtraders-7862011",
+    "title": "Digital Assets Trader",
+    "company": "Flow Traders",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:flowtraders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/7862011",
+    "applyUrl": "https://job-boards.greenhouse.io/flowtraders/jobs/7862011",
+    "department": "Trading",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "quant62011"
+  },
+  {
+    "id": "greenhouse-bitgo-8575180002",
+    "title": "Solutions Engineer",
+    "company": "BitGo",
+    "location": "New York, United States",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bitgo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8575180002",
+    "applyUrl": "https://job-boards.greenhouse.io/bitgo/jobs/8575180002",
+    "department": "Sales Solutions",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job80002"
+  },
+  {
+    "id": "greenhouse-bitgo-8621431002",
+    "title": "Senior Security Application Engineer",
+    "company": "BitGo",
+    "location": "San Francisco, California, United States",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bitgo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8621431002",
+    "applyUrl": "https://job-boards.greenhouse.io/bitgo/jobs/8621431002",
+    "department": "Security",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "security31002"
+  },
+  {
+    "id": "greenhouse-bitgo-8340907002",
+    "title": "Sales Director- Pensions, Endowments, Foundations, and Family Offices",
+    "company": "BitGo",
+    "location": "San Francisco, California, United States",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bitgo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8340907002",
+    "applyUrl": "https://job-boards.greenhouse.io/bitgo/jobs/8340907002",
+    "department": "Sales",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job07002"
+  },
+  {
+    "id": "greenhouse-bitgo-8523894002",
+    "title": "Product Marketing Manager",
+    "company": "BitGo",
+    "location": "Palo Alto, California, United States",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bitgo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8523894002",
+    "applyUrl": "https://job-boards.greenhouse.io/bitgo/jobs/8523894002",
+    "department": "Marketing",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "product94002"
+  },
+  {
+    "id": "greenhouse-bitgo-8523899002",
+    "title": "Product Marketing Manager",
+    "company": "BitGo",
+    "location": "San Francisco, California, United States",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bitgo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8523899002",
+    "applyUrl": "https://job-boards.greenhouse.io/bitgo/jobs/8523899002",
+    "department": "Marketing",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "product99002"
+  },
+  {
+    "id": "greenhouse-bitgo-8604773002",
+    "title": "Head of Internal Audit",
+    "company": "BitGo",
+    "location": "Palo Alto, California, United States",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bitgo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8604773002",
+    "applyUrl": "https://job-boards.greenhouse.io/bitgo/jobs/8604773002",
+    "department": "Internal Audit",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "security73002"
+  },
+  {
+    "id": "greenhouse-bitgo-8604828002",
+    "title": "Head of Internal Audit",
+    "company": "BitGo",
+    "location": "Sioux Falls, South Dakota, United States",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bitgo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8604828002",
+    "applyUrl": "https://job-boards.greenhouse.io/bitgo/jobs/8604828002",
+    "department": "Internal Audit",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "security28002"
+  },
+  {
+    "id": "greenhouse-bitgo-8224387002",
+    "title": "Head of Internal Audit",
+    "company": "BitGo",
+    "location": "San Francisco, California, United States",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bitgo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8224387002",
+    "applyUrl": "https://job-boards.greenhouse.io/bitgo/jobs/8224387002",
+    "department": "Internal Audit",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "security87002"
+  },
+  {
+    "id": "greenhouse-bitgo-8756850002",
+    "title": "Director, Technical Program Management",
+    "company": "BitGo",
+    "location": "New York, United States",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:bitgo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8756850002",
+    "applyUrl": "https://job-boards.greenhouse.io/bitgo/jobs/8756850002",
+    "department": "Product",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job50002"
+  },
+  {
+    "id": "greenhouse-fireblocks-4703919006",
+    "title": "VP Product Marketing",
+    "company": "Fireblocks",
+    "location": "United States",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4703919006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4703919006",
+    "department": "Marketing",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "product19006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4703408006",
+    "title": "Solutions Architect, AMER",
+    "company": "Fireblocks",
+    "location": "United States",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4703408006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4703408006",
+    "department": "Customer Operations",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job08006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4687002006",
+    "title": "Software Engineer, Finapps",
+    "company": "Fireblocks",
+    "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4687002006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4687002006",
+    "department": "R&D",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job02006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4678058006",
+    "title": "Senior Director, Marketing Operations",
+    "company": "Fireblocks",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4678058006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4678058006",
+    "department": "Marketing",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "operations58006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4695803006",
+    "title": "SecOps Expert",
+    "company": "Fireblocks",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4695803006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4695803006",
+    "department": "Security",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job03006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4606870006",
+    "title": "Sales Engineer",
+    "company": "Fireblocks",
+    "location": "Hong Kong",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4606870006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4606870006",
+    "department": "Sales",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job70006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4683940006",
+    "title": "Sales Engineer",
+    "company": "Fireblocks",
+    "location": "Netherlands, Netherlands",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4683940006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4683940006",
+    "department": "Sales",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job40006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4698370006",
+    "title": "Sales Director, Payments",
+    "company": "Fireblocks",
+    "location": "Dubai",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4698370006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4698370006",
+    "department": "Sales",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "sales216"
+  },
+  {
+    "id": "greenhouse-fireblocks-4698016006",
+    "title": "Sales Director, Payments",
+    "company": "Fireblocks",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4698016006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4698016006",
+    "department": "Sales",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job16006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4688817006",
+    "title": "Sales Director, Payments",
+    "company": "Fireblocks",
+    "location": "Seattle, Washington, United States",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4688817006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4688817006",
+    "department": "Sales",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job17006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4698013006",
+    "title": "Sales Director, Banking",
+    "company": "Fireblocks",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4698013006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4698013006",
+    "department": "Sales",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job13006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4698041006",
+    "title": "Sales Director",
+    "company": "Fireblocks",
+    "location": "Singapore",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4698041006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4698041006",
+    "department": "Sales",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job41006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4688774006",
+    "title": "Sales Director",
+    "company": "Fireblocks",
+    "location": "Dubai",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4688774006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4688774006",
+    "department": "Sales",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job74006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4698021006",
+    "title": "Sales Director",
+    "company": "Fireblocks",
+    "location": "London",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4698021006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4698021006",
+    "department": "Sales",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job21006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4701943006",
+    "title": "Business Solutions Director, Payments",
+    "company": "Fireblocks",
+    "location": "Singapore",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4701943006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4701943006",
+    "department": "Sales",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job43006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4658960006",
+    "title": "Associate General Counsel, Crypto Services",
+    "company": "Fireblocks",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4658960006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4658960006",
+    "department": "Legal & Compliance",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "associate60006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4686667006",
+    "title": "Associate General Counsel, Crypto Services",
+    "company": "Fireblocks",
+    "location": "United States",
+    "type": "Full-time",
+    "date": "2026-09-09",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4686667006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4686667006",
+    "department": "Legal & Compliance",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "associate67006"
+  },
+  {
     "id": "solana-getro-92073004",
     "title": "Platform Engineer, Core Systems",
     "company": "Temporal",
@@ -1727,7 +3020,7 @@
       "DeFi",
       "Infrastructure"
     ],
-    "slug": "job02006"
+    "slug": "customer10"
   },
   {
     "id": "greenhouse-fireblocks-4700949006",
@@ -2704,10 +3997,10 @@
   {
     "id": "yzilabs-d6c4ac7e-2512-436a-acdb-e985a418c90c",
     "title": "Fullstack Engineer",
-    "company": "Frontrun.pro",
+    "company": "Frontrun",
     "link": "https://talent.yzilabs.com/jobs/d6c4ac7e-2512-436a-acdb-e985a418c90c",
     "date": "2026-09-03",
-    "source": "YZi Labs: Frontrun.pro",
+    "source": "YZi Labs: Frontrun",
     "location": "Remote(North America Timezone)",
     "department": "Engineering",
     "active": true,
@@ -2795,7 +4088,7 @@
   },
   {
     "id": "c92953a3-d9db-47a9-9db0-1dded4e34c2e",
-    "title": "Lending operation manager",
+    "title": "Lending operation senior officer",
     "company": "KuCoin",
     "link": "https://hire-r1.mokahr.com/social-recruitment/kcareers/100000192?locale=en-US#/job/c92953a3-d9db-47a9-9db0-1dded4e34c2e",
     "date": "2026-09-08",
@@ -2943,7 +4236,7 @@
       "Crypto",
       "Fintech"
     ],
-    "slug": "compliance78101"
+    "slug": "compliance78102"
   },
   {
     "id": "greenhouse-bybit-4969772101",
@@ -20049,7 +21342,7 @@
     "company": "Mercuryo",
     "location": "United States",
     "type": "Full-Time LC",
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "source": "BambooHR: Mercuryo [mercuryo]",
     "link": "https://mercuryo.bamboohr.com/careers/448",
     "applyUrl": "https://mercuryo.bamboohr.com/careers/448",
@@ -20072,7 +21365,7 @@
     "company": "Mercuryo",
     "location": "Cyprus",
     "type": "Full-Time LC",
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "source": "BambooHR: Mercuryo [mercuryo]",
     "link": "https://mercuryo.bamboohr.com/careers/447",
     "applyUrl": "https://mercuryo.bamboohr.com/careers/447",
@@ -20095,7 +21388,7 @@
     "company": "Mercuryo",
     "location": "Cyprus",
     "type": "Formal LC",
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "source": "BambooHR: Mercuryo [mercuryo]",
     "link": "https://mercuryo.bamboohr.com/careers/446",
     "applyUrl": "https://mercuryo.bamboohr.com/careers/446",
@@ -20118,7 +21411,7 @@
     "company": "Mercuryo",
     "location": "Remote",
     "type": "Full-Time LC",
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "source": "BambooHR: Mercuryo [mercuryo]",
     "link": "https://mercuryo.bamboohr.com/careers/445",
     "applyUrl": "https://mercuryo.bamboohr.com/careers/445",
@@ -20141,7 +21434,7 @@
     "company": "Mercuryo",
     "location": "Limassol, Cyprus",
     "type": "Full-Time LC",
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "source": "BambooHR: Mercuryo [mercuryo]",
     "link": "https://mercuryo.bamboohr.com/careers/444",
     "applyUrl": "https://mercuryo.bamboohr.com/careers/444",
@@ -20164,7 +21457,7 @@
     "company": "Mercuryo",
     "location": "Limassol, Cyprus",
     "type": "Full-Time LC",
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "source": "BambooHR: Mercuryo [mercuryo]",
     "link": "https://mercuryo.bamboohr.com/careers/442",
     "applyUrl": "https://mercuryo.bamboohr.com/careers/442",
@@ -20187,7 +21480,7 @@
     "company": "Mercuryo",
     "location": "Spain",
     "type": "Full-Time LC",
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "source": "BambooHR: Mercuryo [mercuryo]",
     "link": "https://mercuryo.bamboohr.com/careers/424",
     "applyUrl": "https://mercuryo.bamboohr.com/careers/424",
@@ -20210,7 +21503,7 @@
     "company": "Mercuryo",
     "location": "Spain",
     "type": "Full-Time LC",
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "source": "BambooHR: Mercuryo [mercuryo]",
     "link": "https://mercuryo.bamboohr.com/careers/418",
     "applyUrl": "https://mercuryo.bamboohr.com/careers/418",
@@ -20233,7 +21526,7 @@
     "company": "Mercuryo",
     "location": "Remote",
     "type": "Full-Time LC",
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "source": "BambooHR: Mercuryo [mercuryo]",
     "link": "https://mercuryo.bamboohr.com/careers/417",
     "applyUrl": "https://mercuryo.bamboohr.com/careers/417",
@@ -20256,7 +21549,7 @@
     "company": "Mercuryo",
     "location": "Cyprus",
     "type": "Full-Time LC",
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "source": "BambooHR: Mercuryo [mercuryo]",
     "link": "https://mercuryo.bamboohr.com/careers/416",
     "applyUrl": "https://mercuryo.bamboohr.com/careers/416",
@@ -20279,7 +21572,7 @@
     "company": "Mercuryo",
     "location": "Spain",
     "type": "Full-Time LC",
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "source": "BambooHR: Mercuryo [mercuryo]",
     "link": "https://mercuryo.bamboohr.com/careers/359",
     "applyUrl": "https://mercuryo.bamboohr.com/careers/359",
@@ -29251,7 +30544,7 @@
     "title": "Derivatives Trading Expert 衍生品交易专家",
     "company": "Bitget",
     "link": "https://hire-r1.mokahr.com/social-recruitment/bitget/100000079#/job/6f6543ea-61b6-4e65-9243-a033a9f3747c",
-    "date": "2026-08-13",
+    "date": "2026-09-09",
     "source": "MokaHR: Bitget [bitget]",
     "location": "Remote / Global",
     "department": "Operations",
