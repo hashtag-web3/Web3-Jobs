@@ -1,0 +1,14 @@
+.git
+.github
+node_modules
+.next
+.open-next
+.wrangler
+.cache
+tmp
+scripts/logs
+*.log
+fontsource-inter-*.tgz
+.env*
+!.env.example
+credentials
